@@ -11,15 +11,26 @@
 
 **Semestre:** 2025-1
 
-**Torre de niveles:** X
+**Torre de niveles:** 3
 
 ## **Introducción:**
 
-En esta sección, describiré brevemente tu proyecto y el principal objetivo que espero lograr con su desarrollo.
+Con este juego se creo un juego tower defense para poder aprovechar el concepto de formato movil, teniendo asi una categoria de juego que pueda llegar a resaltar por este concepto y como se puede juntar con diferentes tipos de civilizaciones
 
 ## **Descripción del proyecto:**
 
-En este apartado, incluiras una descripción detallada de cómo se llevó a cabo la creación de tu proyecto y las razones detrás de las decisiones que tomaste.
+1.- Lo primero que intentamos fue definir el genero del juego, optando por un tower defense, para aprovechar las caracteristicas del juego en celular
+
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="1twd.jpg" width="100"/>
+</p>
+</div>
+
 
 Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
 
