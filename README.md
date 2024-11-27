@@ -27,7 +27,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="1twd.jpg" width="100"/>
+  <img src="Imagenes/1twd.jpg" width="100"/>
 </p>
 </div>
 
