@@ -8,6 +8,7 @@
 * Andros Gael Calles Cedeño - Artista
 * Juan Macera López - Coder
 * Saldivar Pantoja Oscar - Manager
+* Nathan Perez    -   Musico
 
 **Semestre:** 2025-1
 
