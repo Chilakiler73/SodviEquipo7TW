@@ -31,11 +31,56 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 </p>
 </div>
 
+2,. Despues se tomo la tematica de que donde se iba a ambientar, Decidiendo el tipo de civilizaciones
 
-Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, junto con su correspondiente descripción del proyecto.
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="Imagenes/1twd.jpg" width="100"/>
+</p>
+</div>
+
+
+3.- Una vez definido esto , decidimos el el tipo de estilo artistico, para que fuese pixel art
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="Imagenes/1twd.jpg" width="100"/>
+</p>
+</div>
+
+4.- Con esto llegamos al plan de desarrollo, teniendo asi una comunicacion constante y usar trello para mostrar avances
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="Imagenes/1twd.jpg" width="100"/>
+</p>
+</div>
+
+5.- Para al final ver como se iria progresando con el desarrollo poco a poco
+
+<div align="center">
+<br>
+<br>
+<br>
+<br>
+<p align="center">
+  <img src="Imagenes/1twd.jpg" width="100"/>
+</p>
+</div>
+
+
 
 ## **Conclusión:** 
 
-Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
-
+Oscar Saldicar: Con este videojuego, logre aprender a como se puede llevar a cabo la comunicacion de un equipo y ver las cualidades que tienen tus compa;eros y ver que al ser bastante buenas, llevarlas a otro nivel para complemetar dichas habilidades con los demas compañeros
 
