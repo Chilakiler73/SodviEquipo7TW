@@ -1,15 +1,15 @@
 # Titulo del juego 🎮
 
-**Equipo:** X
+**Equipo:** 7
 
 **Integrantes:**
 
-* Nombre Completo 1 - Rol
-* Nombre Completo 2 - Rol 
-* Nombre Completo 3 - Rol
-* Nombre Completo 4 - Rol
+* Rafael Sánchez Durán - Escritor
+* Andros Gael Calles Cedeño - Artista
+* Juan Macera López - Coder
+* Saldivar Pantoja Oscar - Manager
 
-**Semestre:** 2024-1
+**Semestre:** 2025-1
 
 **Torre de niveles:** X
 
@@ -27,14 +27,4 @@ Además, adjuntar al menos cinco imágenes que muestran el proceso de trabajo, j
 
 Para finalizar, cada miembro del equipo presentará una conclusión que resumirá los logros y aprendizajes obtenidos durante el desarrollo de este proyecto.
 
-<!-- Cuando entregues tu documentación, por favor, borra todo lo que esté debajo. -->
-<div align="center">
-<br>
-<br>
-<br>
-<br>
-<p align="center">
-  <img src="rexLogo.png" alt="Logo de Fernando Rosas" width="100"/>
-</p>
-<h3 align="center">Documentado por Fernando Rosas</h3>
-</div>
+
