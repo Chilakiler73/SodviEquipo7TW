@@ -8,6 +8,7 @@
 * Andros Gael Calles Cedeño - Artista
 * Juan Macera López - Coder
 * Saldivar Pantoja Oscar - Manager
+* Nathan Perez    -   Musico
 
 **Semestre:** 2025-1
 
@@ -27,7 +28,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/1twd.jpg" width="100"/>
+  <img src="Imagenes/1twd.jpg" width="500"/>
 </p>
 </div>
 
@@ -39,7 +40,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/1twd.jpg" width="100"/>
+  <img src="Imagenes/Civi.jpg" width="500"/>
 </p>
 </div>
 
@@ -51,7 +52,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/1twd.jpg" width="100"/>
+  <img src="Imagenes/Torre 2.png" width="500"/>
 </p>
 </div>
 
@@ -62,7 +63,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/1twd.jpg" width="100"/>
+  <img src="Imagenes/trello.png" width="500"/>
 </p>
 </div>
 
@@ -74,7 +75,7 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 <br>
 <br>
 <p align="center">
-  <img src="Imagenes/1twd.jpg" width="100"/>
+  <img src="Imagenes/Escenario.png" width="500"/>
 </p>
 </div>
 
@@ -82,5 +83,5 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 
 ## **Conclusión:** 
 
-Oscar Saldicar: Con este videojuego, logre aprender a como se puede llevar a cabo la comunicacion de un equipo y ver las cualidades que tienen tus compa;eros y ver que al ser bastante buenas, llevarlas a otro nivel para complemetar dichas habilidades con los demas compañeros
+Oscar Saldivar pantoja: Con este videojuego, logre aprender a como se puede llevar a cabo la comunicacion de un equipo y ver las cualidades que tienen tus compa;eros y ver que al ser bastante buenas, llevarlas a otro nivel para complemetar dichas habilidades con los demas compañeros
 
