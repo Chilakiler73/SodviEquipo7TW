@@ -82,5 +82,5 @@ Con este juego se creo un juego tower defense para poder aprovechar el concepto 
 
 ## **Conclusión:** 
 
-Oscar Saldicar: Con este videojuego, logre aprender a como se puede llevar a cabo la comunicacion de un equipo y ver las cualidades que tienen tus compa;eros y ver que al ser bastante buenas, llevarlas a otro nivel para complemetar dichas habilidades con los demas compañeros
+Oscar Saldivar pantoja: Con este videojuego, logre aprender a como se puede llevar a cabo la comunicacion de un equipo y ver las cualidades que tienen tus compa;eros y ver que al ser bastante buenas, llevarlas a otro nivel para complemetar dichas habilidades con los demas compañeros
 
